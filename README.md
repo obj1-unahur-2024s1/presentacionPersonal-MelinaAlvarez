@@ -1,5 +1,3 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
-
 # Presentación
 Hola! Me presento mi nombre es Melina Alvarez y estoy en mi segundo año de la Tecnicatura en Programación.
 
@@ -13,3 +11,4 @@ Siempre tuve un interes por la informática pero mis conocimientos eran basicos,
 * Disfuto escuchar radios en streaming, principalmente LUZU TV. Y mi programa favorito es Tarde de Tertulia.
 * Cultura asiática, me interesa bastante todo lo relacionado a otras culturas (ya sea su historia, costumbres, festividades, comidas, etc.) pero principalmente mi interes esta puesto en Japón y Corea.
 * Crochet, es un interes que considero que obtuve de mi abuela ya que a ella también le gusta tejer y siempre me enseño al respecto.
+![Foto de mi tejido](./assets/crochet.png)
