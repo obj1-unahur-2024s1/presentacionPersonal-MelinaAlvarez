@@ -1,35 +1,15 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+# PresentaciÃ³n
+Hola! Me presento mi nombre es Melina Alvarez y estoy en mi segundo aÃ±o de la Tecnicatura en ProgramaciÃ³n.
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+## Sobre mi
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Comence la carrera en 2023 con muchas expectativas pero tambiÃ©n con dudas ya que no sabia si era a lo que me querÃ­a dedicar o si iba a poder entender todo pero con el paso del tiempo fui descartando esos miedos y comence a duisfrutar mÃ¡s.
+Siempre tuve un interes por la informÃ¡tica pero mis conocimientos eran basicos, y al comenzar la carrera pude profundizar mÃ¡s y comenzÃ³ a interesarme mucho mÃ¡s de lo que pensaba, asi que hoy en dia estoy bastante motivada con lo que estudio y quiero seguir aprendiendo lo mas que pueda. 
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión 1 **turno noche**: Martes 18 a 22hs y Sábado 10 a 12hs.
-* Horario comisión 2 **turno mañana**: Miércoles 8 a 12hs y Sábado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo González Tulian, Lucas Spigariol, Cristian Ciarallo y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Manuel Nuñez y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Mis gustos:
+* Voley, es un deporte que me gusta por lo que este aÃ±o comence a entrenar en un club.
+* Disfuto escuchar radios en streaming, principalmente LUZU TV. Y mi programa favorito es Tarde de Tertulia.
+* Cultura asiÃ¡tica, me interesa bastante todo lo relacionado a otras culturas (ya sea su historia, costumbres, festividades, comidas, etc.) pero principalmente mi interes esta puesto en JapÃ³n y Corea.
+* Crochet, es un interes que considero que obtuve de mi abuela ya que a ella tambiÃ©n le gusta tejer y siempre me enseÃ±o al respecto.
