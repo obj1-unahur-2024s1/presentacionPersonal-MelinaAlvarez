@@ -3,7 +3,7 @@ Hola! Me presento mi nombre es Melina Alvarez y estoy en mi segundo año de la T
 
 ## Sobre mi
 
-Comence la carrera en 2023 con muchas expectativas pero también con dudas ya que no sabia si era a lo que me quería dedicar o si iba a poder entender todo pero con el paso del tiempo fui descartando esos miedos y comence a duisfrutar más.
+Comence la carrera en 2023 con muchas expectativas pero también con dudas ya que no sabia si era a lo que me quería dedicar o si iba a poder entender todo pero con el paso del tiempo fui descartando esos miedos y comence a disfrutar más.
 Siempre tuve un interés por la informática pero mis conocimientos eran básicos, al comenzar la carrera pude profundizar en otros temas y comenzó a interesarme mucho más de lo que pensaba, asi que hoy en día estoy bastante motivada con lo que estudio y quiero seguir aprendiendo lo más que pueda. 
 
 ## Mis gustos:
